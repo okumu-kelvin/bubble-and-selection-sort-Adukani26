@@ -1,7 +1,5 @@
 def selection_sort(arr):
-    # TODO: Implement selection sort
-    def selection_sort(arr):
-    # TODO: Implement selection sort
+   
     for i in range(len(arr)):
         min_idx = i
         for j in range(i + 1, len(arr)):
